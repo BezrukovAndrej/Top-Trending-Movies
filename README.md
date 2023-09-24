@@ -7,8 +7,6 @@ The application is the most popular films.
 ## Скриншот
 <a href="https://ibb.co/1X3FVSN"><img src="https://i.ibb.co/2MwG2br/Logo.png" alt="Logo" border="0"></a>
 
-## GIF
-
 ## **Ссылки**
 [API IMDb](https://www.themoviedb.org/)
 
