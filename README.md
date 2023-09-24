@@ -17,8 +17,8 @@ The application is the most popular films.
 - Описание фильма.
 
 Приложение состоит из:
-1. Из списка фильмов
-2. Описание фильма
+1. Из экрана списка фильмов
+2. Из экрана описание фильма
 
 ## **Использовалось**
 - No storyboard, 100% Programmatic UI
@@ -31,8 +31,8 @@ The application is the most popular films.
 - Film description.
 
 The application consists of:
-1. From the list of films
-2. Description of the film
+1. From the movie list screen
+2. From the screen description of the film
 
 
 ## **Used**
