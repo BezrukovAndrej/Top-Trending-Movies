@@ -22,6 +22,7 @@ The application is the most popular films.
 - No storyboard, 100% Programmatic UI
 - MVVM
 - SDWebImage
+- Dark Mode
 
 
 ## Brief description of the application
@@ -37,3 +38,4 @@ The application consists of:
 - No storyboard, 100% Programmatic UI
 - MVVM
 - SDWebImage
+- Dark Mode
