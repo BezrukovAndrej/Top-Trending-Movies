@@ -8,7 +8,7 @@ The application is the most popular films.
 <a href="https://ibb.co/1X3FVSN"><img src="https://i.ibb.co/2MwG2br/Logo.png" alt="Logo" border="0"></a>
 
 ## **Ссылки**
-[API IMDb](https://www.themoviedb.org/)
+[API](https://www.themoviedb.org/)
 
 ## Краткое описание приложения
 - Список самых популярных фильмов.
