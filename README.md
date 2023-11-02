@@ -4,10 +4,10 @@
 
 The application is the most popular films.
 
-## Скриншот
+## Скриншот / Screenshot
 <a href="https://ibb.co/1X3FVSN"><img src="https://i.ibb.co/2MwG2br/Logo.png" alt="Logo" border="0"></a>
 
-## **Ссылки**
+## **Ссылки / Links**
 [API](https://www.themoviedb.org/)
 
 ## Краткое описание приложения
